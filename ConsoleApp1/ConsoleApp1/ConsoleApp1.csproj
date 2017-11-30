@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3ECFB5DE-4E92-45AB-A750-78FA80C8E477}</ProjectGuid>
+    <ProjectGuid>{D5FACDA7-3038-433D-A5AC-6546FED5EEA3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>GitProjectCalculator</RootNamespace>
-    <AssemblyName>GitProjectCalculator</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
