@@ -19,12 +19,13 @@ namespace ConsoleApp1
 
             int sum = a + b;
             int sub = a - b;
+            int mul = a * b;
 
-            //this is a test
-            //my name is ali and family aalpiour
+
             Console.WriteLine("Sum Is :" + sum);
             Console.WriteLine("sub Is :" + sub);
-            
+            Console.WriteLine("mul Is :" + mul);
+
             Console.ReadLine();
         }
     }
