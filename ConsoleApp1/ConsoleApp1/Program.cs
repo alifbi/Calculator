@@ -21,7 +21,7 @@ namespace ConsoleApp1
             int sub = a - b;
             int mul = a * b;
 
-            //calcuataro
+            //Calculator
 
             Console.WriteLine("Sum Is :" + sum);
             Console.WriteLine("sub Is :" + sub);
