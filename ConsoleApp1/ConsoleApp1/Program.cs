@@ -20,12 +20,14 @@ namespace ConsoleApp1
             int sum = a + b;
             int sub = a - b;
             int mul = a * b;
+            int div = a / b;
 
             //calculator
 
             Console.WriteLine("Sum Is :" + sum);
             Console.WriteLine("sub Is :" + sub);
             Console.WriteLine("mul Is :" + mul);
+            Console.WriteLine("div Is :" + div);
 
             Console.ReadLine();
         }
